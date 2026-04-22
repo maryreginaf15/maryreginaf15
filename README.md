@@ -31,7 +31,7 @@ Olá! Sou Mariana, apaixonada por análise de dados, automação e tecnologia. T
 💻 Tenho conhecimento em Databricks, metodologias ágeis (Scrum e Kanban) e governança de projetos, além de experiência em projetos com IA, como o Antigravity, aplicando programação para otimizar processos e criar soluções eficientes.
 
 <br>
-📊 Meu foco é desenvolver dashboards interativos, realizar análise de dados, automação de processos e soluções com Inteligência Artificial, contribuindo para a inovação na área de dados.🔗 Vamos conectar? Estou sempre aberta a trocar ideias, aprender e colaborar em novos projetos!
+📊 Meu foco é desenvolver dashboards interativos, realizar análise de dados, automação de processos e soluções com Inteligência Artificial, contribuindo para a inovação na área de dados.<br>🔗 Vamos conectar? Estou sempre aberta a trocar ideias, aprender e colaborar em novos projetos!
 </h4>
 
 ###

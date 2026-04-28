@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Mariana Regina</h1>
 
 <p align="center">
-  🚀 Data Analytics • Automação • Inteligência Artificial
+  🚀 Data Analytics • Automação • BI • Inteligência Artificial
 </p>
 
 <p align="center">

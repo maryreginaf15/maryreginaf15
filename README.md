@@ -20,7 +20,7 @@
 - Análise de dados com IA  
 
 🚀 Tecnologias: Python IA Databricks  
-
+<br> 
 🌐 Ver online https://projetopessoalfonoaudiologamaryregina.netlify.app/
 
 ---
@@ -37,6 +37,7 @@
 🚀 Tecnologias: HTML CSS JavaScript  
 
 🔗 Ver repositório  https://github.com/maryreginaf15/PhantomDB-Assistant-MR
+<br> 
 🌐 Ver online https://p1fono-maryreginaf-2602.netlify.app/
 
 ---
@@ -52,13 +53,14 @@
 🚀 Tecnologias: Python JavaScript IA  
 
 🔗 Ver repositório  https://github.com/maryreginaf15/PhantomDB-Assistant-MR
+<br> 
 🌐 Ver online https://phantomdb-assistant-mr.netlify.app/
 
 ---
 
 ## 👋 Sobre mim
 
-Olá! Sou a Mariana, apaixonada por dados, tecnologia e inovação.
+Olá! Eu Su ou a Mariana,22 anos,Paulistana, formanda em TADS- SENAC e apaixonada por dados, tecnologia e inovação.
 
 Atuo com Análise de Dados, Automação e Inteligência Artificial, utilizando ferramentas como Power BI, SQL, Python e Databricks para transformar dados em insights estratégicos.
 

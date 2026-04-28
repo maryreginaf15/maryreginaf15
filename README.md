@@ -21,7 +21,7 @@
 
 🚀 Tecnologias: Python IA Databricks  
 
-🌐 Ver online
+🌐 Ver online https://projetopessoalfonoaudiologamaryregina.netlify.app/
 
 ---
 

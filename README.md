@@ -23,6 +23,7 @@
 
 🚀 Tecnologias: Python IA Databricks  
 
+
 🌐Ver  Online: (https://projetopessoalfonoaudiologamaryregina.netlify.app/)
 
 ---
@@ -39,8 +40,23 @@
 
 🚀 Tecnologias: HTML CSS JavaScript
 
+🔗 ver site - https://github.com/maryreginaf15/p1fono-maryreginaf-2602
+🌐 Ver online￼- https://p1fono-maryreginaf-2602.netlify.app/
 
-🌐 Ver online￼
+---
+🤖 PhantomDB Assistant — IA para Dados
+
+💡 Assistente inteligente desenvolvido para apoiar consultas, análise e interação com dados de forma automatizada.
+
+* Interface interativa com foco em usabilidade
+* Apoio na análise e interpretação de dados
+* Automação de consultas e respostas inteligentes
+* Aplicação prática de conceitos de Inteligência Artificial
+
+🚀 Tecnologias: Python JavaScript IA
+
+🔗 ver site - https://github.com/maryreginaf15/PhantomDB-Assistant-MR
+🌐 Ver online￼- https://phantomdb-assistant-mr.netlify.app/
 
 ---
 
@@ -55,7 +71,7 @@ Atuo na área de Análise de Dados e Automação, utilizando ferramentas como Po
 - Data Science  
 - Banco de Dados avançado  
 
-🌍 Voluntária na ONG Escrevendo na Quebrada, contribuindo com impacto social através da educação.
+🌍 Voluntária na ONG **Escrevendo na Quebrada**, atuando na área de **Sistemas e Suporte Digital**, contribuindo com a organização tecnológica, apoio a ferramentas digitais e melhoria de processos.
 
 ---
 

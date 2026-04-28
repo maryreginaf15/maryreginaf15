@@ -36,8 +36,8 @@
 
 🚀 Tecnologias: HTML CSS JavaScript  
 
-🔗 Ver repositório  
-🌐 Ver online
+🔗 Ver repositório  https://github.com/maryreginaf15/PhantomDB-Assistant-MR
+🌐 Ver online https://p1fono-maryreginaf-2602.netlify.app/
 
 ---
 
@@ -51,8 +51,8 @@
 
 🚀 Tecnologias: Python JavaScript IA  
 
-🔗 Ver repositório  
-🌐 Ver online
+🔗 Ver repositório  https://github.com/maryreginaf15/PhantomDB-Assistant-MR
+🌐 Ver online https://phantomdb-assistant-mr.netlify.app/
 
 ---
 
@@ -76,7 +76,7 @@ Atuo com Análise de Dados, Automação e Inteligência Artificial, utilizando f
 ### 📊 Data & Analytics
 Power BI  
 <div style="background:#2d2d2d;border-radius:5px;">
-  <div style="width:85%;background:#4caf50;padding:5px;border-radius:5px;color:white;">85%</div>
+  <div style="width:100%;background:#4caf50;padding:5px;border-radius:5px;color:white;">85%</div>
 </div>
 
 SQL (SQL Server / MySQL)  
@@ -86,7 +86,7 @@ SQL (SQL Server / MySQL)
 
 Excel (Análise de Dados)  
 <div style="background:#2d2d2d;border-radius:5px;">
-  <div style="width:90%;background:#4caf50;padding:5px;border-radius:5px;color:white;">90%</div>
+  <div style="width:100%;background:#4caf50;padding:5px;border-radius:5px;color:white;">90%</div>
 </div>
 
 ---
@@ -150,9 +150,7 @@ Jira & Trello
   <a href="mailto:mari.ferreira2061808@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://wa.me/5511999999999">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+
 </p>
 
 ---

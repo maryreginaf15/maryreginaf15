@@ -12,18 +12,7 @@
 
 ## 🔥 Projetos em Destaque
 
-### 📊 Dashboard de Análise de Dados
-🔎 Projeto focado na criação de dashboards interativos para análise estratégica de dados.
 
-- Visualização de KPIs  
-- Tratamento e análise de dados  
-- Foco em tomada de decisão  
-
-🚀 Tecnologias: Power BI SQL Python  
-
-🔗 Ver projeto
-
----
 
 ### 🤖 Projeto de Inteligência Artificial (Antigravity)
 💡 Desenvolvimento de soluções utilizando IA para automação e otimização de processos.
@@ -34,20 +23,24 @@
 
 🚀 Tecnologias: Python IA Databricks  
 
-🔗 Ver projeto
+🌐Ver  Online: (https://projetopessoalfonoaudiologamaryregina.netlify.app/)
 
 ---
 
-### ⚙️ Automação de Processos
-🔄 Projeto voltado para automação de rotinas e aumento de produtividade.
+ Site Institucional — Fonoaudiologia
 
-- Scripts automatizados  
-- Redução de tarefas manuais  
-- Otimização de fluxo de trabalho  
+💬 Plataforma web desenvolvida para apresentação profissional de uma fonoaudióloga, com foco em experiência do usuário e conversão de pacientes.
 
-🚀 Tecnologias: Python SQL  
+* Estrutura moderna e responsiva (mobile-first)
+* Apresentação de serviços e especialidades
+* Integração com WhatsApp para agendamento
+* Formulário de contato interativo
+* Design voltado para usabilidade e credibilidade
 
-🔗 Ver projeto
+🚀 Tecnologias: HTML CSS JavaScript
+
+
+🌐 Ver online￼
 
 ---
 
@@ -94,10 +87,10 @@ Atuo na área de Análise de Dados e Automação, utilizando ferramentas como Po
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/mariana-ferreira-a605651b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mari.ferreira2061808@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/5511999999999">
@@ -108,5 +101,5 @@ Atuo na área de Análise de Dados e Automação, utilizando ferramentas como Po
 ---
 
 <p align="center">
-  💜 Sempre evoluindo e criando soluções com tecnologia
+  💜 Sempre evoluindo e criando soluções com dados
 <

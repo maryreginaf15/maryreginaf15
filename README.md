@@ -12,10 +12,8 @@
 
 ## 🔥 Projetos em Destaque
 
-
-
 ### 🤖 Projeto de Inteligência Artificial (Antigravity)
-💡 Desenvolvimento de soluções utilizando IA para automação e otimização de processos.
+💡 Desenvolvimento de soluções com IA voltadas para automação e otimização de processos.
 
 - Aplicação de algoritmos inteligentes  
 - Automação de tarefas  
@@ -23,40 +21,38 @@
 
 🚀 Tecnologias: Python IA Databricks  
 
+🌐 Ver online
 
-🌐Ver  Online: (https://projetopessoalfonoaudiologamaryregina.netlify.app/)
+---
+
+### 🌐 Site Institucional — Fonoaudiologia
+💬 Plataforma web desenvolvida para apresentação profissional, com foco em experiência do usuário e conversão de pacientes.
+
+- Design moderno e responsivo (mobile-first)  
+- Apresentação de serviços e especialidades  
+- Integração com WhatsApp para agendamento  
+- Formulário de contato interativo  
+- Foco em usabilidade e credibilidade  
+
+🚀 Tecnologias: HTML CSS JavaScript  
+
+🔗 Ver repositório  
+🌐 Ver online
 
 ---
 
- Site Institucional — Fonoaudiologia
+### 🤖 PhantomDB Assistant — IA para Dados
+💡 Assistente inteligente para consultas, análise e interação com dados de forma automatizada.
 
-💬 Plataforma web desenvolvida para apresentação profissional de uma fonoaudióloga, com foco em experiência do usuário e conversão de pacientes.
+- Interface interativa com foco em usabilidade  
+- Automação de consultas  
+- Apoio na interpretação de dados  
+- Aplicação prática de Inteligência Artificial  
 
-* Estrutura moderna e responsiva (mobile-first)
-* Apresentação de serviços e especialidades
-* Integração com WhatsApp para agendamento
-* Formulário de contato interativo
-* Design voltado para usabilidade e credibilidade
+🚀 Tecnologias: Python JavaScript IA  
 
-🚀 Tecnologias: HTML CSS JavaScript
-
-🔗 ver site - https://github.com/maryreginaf15/p1fono-maryreginaf-2602
-🌐 Ver online￼- https://p1fono-maryreginaf-2602.netlify.app/
-
----
-🤖 PhantomDB Assistant — IA para Dados
-
-💡 Assistente inteligente desenvolvido para apoiar consultas, análise e interação com dados de forma automatizada.
-
-* Interface interativa com foco em usabilidade
-* Apoio na análise e interpretação de dados
-* Automação de consultas e respostas inteligentes
-* Aplicação prática de conceitos de Inteligência Artificial
-
-🚀 Tecnologias: Python JavaScript IA
-
-🔗 ver site - https://github.com/maryreginaf15/PhantomDB-Assistant-MR
-🌐 Ver online￼- https://phantomdb-assistant-mr.netlify.app/
+🔗 Ver repositório  
+🌐 Ver online
 
 ---
 
@@ -64,38 +60,83 @@
 
 Olá! Sou a Mariana, apaixonada por dados, tecnologia e inovação.
 
-Atuo na área de Análise de Dados e Automação, utilizando ferramentas como Power BI, SQL, Python e Databricks para transformar dados em insights estratégicos.
+Atuo com Análise de Dados, Automação e Inteligência Artificial, utilizando ferramentas como Power BI, SQL, Python e Databricks para transformar dados em insights estratégicos.
 
 🌱 Atualmente focada em:
 - Inteligência Artificial  
 - Data Science  
 - Banco de Dados avançado  
 
-🌍 Voluntária na ONG **Escrevendo na Quebrada**, atuando na área de **Sistemas e Suporte Digital**, contribuindo com a organização tecnológica, apoio a ferramentas digitais e melhoria de processos.
+🌍 Voluntária na ONG Escrevendo na Quebrada, atuando na área de Sistemas e Suporte Digital, contribuindo com a organização tecnológica, suporte a ferramentas digitais e melhoria de processos.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30"/>
-</p>
+### 📊 Data & Analytics
+Power BI  
+<div style="background:#2d2d2d;border-radius:5px;">
+  <div style="width:85%;background:#4caf50;padding:5px;border-radius:5px;color:white;">85%</div>
+</div>
+
+SQL (SQL Server / MySQL)  
+<div style="background:#2d2d2d;border-radius:5px;">
+  <div style="width:80%;background:#4caf50;padding:5px;border-radius:5px;color:white;">80%</div>
+</div>
+
+Excel (Análise de Dados)  
+<div style="background:#2d2d2d;border-radius:5px;">
+  <div style="width:90%;background:#4caf50;padding:5px;border-radius:5px;color:white;">90%</div>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 Inteligência Artificial
+IA Generativa (GenAI)  
+<div style="background:#2d2d2d;border-radius:5px;">
+  <div style="width:75%;background:#2196f3;padding:5px;border-radius:5px;color:white;">75%</div>
+</div>
+
+Python  
+<div style="background:#2d2d2d;border-radius:5px;">
+  <div style="width:70%;background:#2196f3;padding:5px;border-radius:5px;color:white;">70%</div>
+</div>
+
+---
+
+### ☁️ Cloud & Ferramentas
+Azure / AWS  
+<div style="background:#2d2d2d;border-radius:5px;">
+  <div style="width:65%;background:#ff9800;padding:5px;border-radius:5px;color:white;">65%</div>
+</div>
+
+GitHub  
+<div style="background:#2d2d2d;border-radius:5px;">
+  <div style="width:85%;background:#ff9800;padding:5px;border-radius:5px;color:white;">85%</div>
+</div>
+
+---
+
+### 🧩 Gestão & Produtividade
+Jira & Trello  
+<div style="background:#2d2d2d;border-radius:5px;">
+  <div style="width:80%;background:#9c27b0;padding:5px;border-radius:5px;color:white;">80%</div>
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryreginaf&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryreginaf&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maryreginaf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryreginaf&layout=compact&theme=dracula" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maryreginaf&theme=dracula" height="160"/>
 </p>
 
 ---
@@ -106,7 +147,7 @@ Atuo na área de Análise de Dados e Automação, utilizando ferramentas como Po
   <a href="https://www.linkedin.com/in/mariana-ferreira-a605651b8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mari.ferreira2061808@gmail.com">
+  <a href="mailto:mari.ferreira2061808@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/5511999999999">
